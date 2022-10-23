@@ -1,8 +1,0 @@
-# Hallo ini adalah file testing untuk mencoba commit
-
-1. Membuat account Github
-2. Membuat repository 
-3. Membuat file testing
-
-4. ini kalimat saya ke 1
-5. ini kalimat saya ke 2
