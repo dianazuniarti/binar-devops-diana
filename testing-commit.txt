@@ -4,4 +4,5 @@
 2. Membuat repository 
 3. Membuat file testing
 
-4. saya menambahkan sebaris kalimat
+4. ini kalimat saya ke 1
+5. ini kalimat saya ke 2
