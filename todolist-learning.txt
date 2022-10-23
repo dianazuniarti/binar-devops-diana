@@ -1,0 +1,4 @@
+Daftar Belajar Diana
+* Belajar Pengenalan Devops.
+* Belajar Git
+* Belajar Github
