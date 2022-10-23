@@ -5,3 +5,8 @@ Daftar Belajar Devops
 
 Daftar Belajar Sysadmin
 * Linux Fundamental
+* Web Server 
+
+Daftar Belajar Cloud
+* AWS Fundamental
+* Compute Service
