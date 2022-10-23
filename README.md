@@ -1,1 +1,1 @@
-# binar-devops-diana
+# handson-dev-diana
