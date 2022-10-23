@@ -1,4 +1,7 @@
-Daftar Belajar Diana
+Daftar Belajar Devops
 * Belajar Pengenalan Devops.
 * Belajar Git
 * Belajar Github
+
+Daftar Belajar Sysadmin
+* Linux Fundamental
