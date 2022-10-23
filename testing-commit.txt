@@ -3,3 +3,5 @@
 1. Membuat account Github
 2. Membuat repository 
 3. Membuat file testing
+
+4. saya menambahkan sebaris kalimat
